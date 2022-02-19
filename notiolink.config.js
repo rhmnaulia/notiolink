@@ -1,19 +1,19 @@
 module.exports = {
   /** Application Name, will be shown on the index page */
-  appName: 'Notiolink',
+  appName: 'Aralinx',
 
   /** Description for SEO */
   seoDescription:
     'Self-hostable branded link shortener built with Next.js & Notion API',
 
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  deployUrl: 'https://notiolink.thcl.dev',
+  deployUrl: 'https://aralinx.vercel.app',
 
   /**
    * Color theme for the app
    * @type {'light' | 'dark' | 'milky' | 'street' | 'monokai'}
    */
-  theme: 'dark',
+  theme: 'street',
 
   /** REQUIRED CONFIG: Set this to 'false'  */
   demoMode: 'true',
